@@ -1,7 +1,4 @@
-/**
- * Created by joehu on 26/10/2016.
- */
-
+// split string by 1, got the zeros array, and find the maximum length one.
 function solution(N) {
     // write your code in JavaScript (Node.js 6.4.0)
     var zerosList = Number(N).toString(2).split("1");

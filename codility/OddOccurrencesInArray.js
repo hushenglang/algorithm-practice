@@ -1,3 +1,4 @@
+// use dict to record the occurrence of numbers and find the even occurrence one.
 function solution(A) {
     var dict = {};
     for(var i=0;i<A.length;i++){
