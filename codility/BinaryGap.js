@@ -20,5 +20,7 @@ function solution(N) {
     return max;
 }
 
+
+
 console.log(solution(6));
 console.log(solution(148));
