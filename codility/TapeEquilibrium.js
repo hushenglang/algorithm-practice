@@ -1,3 +1,4 @@
+//count element problem
 function solution(A) {
     //1. calculate total sum of array;
     var sumOfArray = A.reduce((accu, val)=>accu+val);

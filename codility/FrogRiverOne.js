@@ -1,3 +1,4 @@
+//count element problem
 function solution(X, A) {
     var sec = -1;
     //1. init a zeros step array of the length X. and define a new position counter
