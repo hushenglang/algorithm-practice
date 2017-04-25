@@ -53,6 +53,6 @@ var curry = function (f) {
 };
 
 
-var a = permutationsWithRepetition(5, ['R','G','B']);
+var a = permutationsWithRepetition(4, ['R','G','B']);
 
 console.log(a);
