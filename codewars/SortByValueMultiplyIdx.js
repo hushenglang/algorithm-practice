@@ -31,6 +31,9 @@ function sortByValueAndIndex(array) {
 
     return result;
 }
+ni shuo huadfsdf
+sdf
+sdf
 
 //solution 2
 function sortByValueAndIndex2(array) {
